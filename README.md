@@ -1,1 +1,3 @@
 # Routing-Algorithms
+
+This is a course project for Analysis of Algorithms CSCE-629 at Texas A&M University. The project is about finding the path with the maximum bandwidth in two graphs that have 5000 vertices and an average degree of 10000. The repository contains implementation of three algorithms Dijkstra's algorithm, Dijkstra's algorithm optimized with heap and Kruskal's algorithm. The main function measures performance of all the three algorithms on 5 randomly generated graphs.
